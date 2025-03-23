@@ -1,0 +1,1 @@
+This project demonstrates a simple client-server chat application using Java sockets. The client connects to a server running on the local machine and sends messages. The server echoes the messages back to the client until the client sends "exit", which will terminate the communication.
